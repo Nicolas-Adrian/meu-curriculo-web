@@ -14,6 +14,14 @@ A página funciona como um **currículo digital**, contendo informações essenc
 
 O projeto foi desenvolvido utilizando apenas **HTML e CSS**, focando na construção da estrutura da página e na estilização básica do conteúdo.
 
+## 🌐 Acessar o Projeto
+
+Você pode visualizar o projeto acessando o link abaixo:
+
+🔗 **Link do projeto:**
+
+https://nicolas-adrian.github.io/meu-curriculo-web/
+
 ## 🛠 Tecnologias Utilizadas
 
 * **HTML5** – responsável pela estrutura da página
@@ -55,6 +63,12 @@ Algumas melhorias que podem ser adicionadas ao projeto no futuro:
 
 📍 Quixeramobim - Ceará
 📧 [adriannicolas1311@gmail.com](mailto:adriannicolas1311@gmail.com)
+
+GitHub:
+https://github.com/nicolasadrian-barros
+
+LinkedIn:
+https://www.linkedin.com/in/nicolas-adrian-barros
 
 GitHub:
 https://github.com/nicolasadrian-barros
